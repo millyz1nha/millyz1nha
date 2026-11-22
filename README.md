@@ -2,24 +2,24 @@
 # Olá! Eu sou a Emilly França 👋
 
 🎓 Estudante de Ciência da Computação na UDF.
-💻 Técnica em Informática formada pelo IFB.
+ Técnica em Informática formada pelo IFB.
 
 ## Sobre mim
 
 Sou estudante da área de tecnologia e tenho interesse em desenvolvimento de software e criação de soluções digitais.
-
 Estou em constante aprendizado, buscando desenvolver minhas habilidades técnicas e adquirir experiência por meio de projetos acadêmicos e pessoais.
 
 ## Tecnologias e ferramentas
 
-- HTML
-- CSS
-- C
-- Java
-- Python
-- JavaScript (básico)
-- Git e GitHub
 - Excel
+- Python
+- Informática e sistemas
+- Google Workspace
+- HTML e CSS
+- Linguagem C
+- Inteligência Artificial Generativa
+- Engenharia de Prompt
+- Canva
 
 ## Projetos
 
