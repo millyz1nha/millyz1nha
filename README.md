@@ -6,8 +6,9 @@
 
 ## Sobre mim
 
-Sou estudante da área de tecnologia e tenho interesse em desenvolvimento de software e criação de soluções digitais.
-Estou em constante aprendizado, buscando desenvolver minhas habilidades técnicas e adquirir experiência por meio de projetos acadêmicos e pessoais.
+  Sou estudante de Ciência da Computação na UDF e formada em Técnico em Informática pelo Instituto Federal de Brasília (IFB). Atualmente curso o 2º semestre da graduação. Tenho interesse em construir minha carreira na área de tecnologia, com foco em desenvolvimento de software, inovação e soluções digitais. Ao longo da minha formação, adquiri conhecimentos em Python, Java, C, HTML, CSS, desenvolvimento de sistemas e ferramentas digitais.
+
+   Também possuo experiência com tecnologias de Inteligência Artificial, elaboração de prompts avançados, Excel, Google Workspace e produção de documentos acadêmicos conforme as normas ABNT. Além da área técnica, destaco-me pela organização, comunicação, trabalho em equipe e facilidade para aprender novas ferramentas e processos.
 
 ## Tecnologias e ferramentas
 
@@ -32,4 +33,5 @@ Aqui você encontrará alguns dos meus projetos acadêmicos e pessoais, desenvol
 
 ## Vamos nos conectar?
 
+- Linkedin: www.linkedin.com/in/emilly-frança-gama-632637274
 Estou aberta a aprender, colaborar e conhecer novas oportunidades na área de tecnologia!
