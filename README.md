@@ -34,4 +34,5 @@ Aqui você encontrará alguns dos meus projetos acadêmicos e pessoais, desenvol
 ## Vamos nos conectar?
 
 - Linkedin: www.linkedin.com/in/emilly-frança-gama-632637274
+  
 Estou aberta a aprender, colaborar e conhecer novas oportunidades na área de tecnologia!
