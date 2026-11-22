@@ -1,7 +1,7 @@
 
 # Olá! Eu sou a Emilly França 👋
 
- Estudante de Ciência da Computação na UDF.
+ Estudante de Ciência da Computação na UDF/
  Técnica em Informática formada pelo IFB.
 
 ## Sobre mim
